@@ -10,7 +10,7 @@ A: It rewrites `%USERPROFILE%\AppData\Local\Larian Studios\Baldur's Gate 3\Playe
 Q: So what I have to do when getting this screen?
 ![Honour Mode Game over screen](/HonorRevival/assets/game_over_popup.jpg)
 
-A: First of all press `Alt+F4` or kill `bg3.exe` process ... i.e. close the game. Then run `HonorRevival.exe`. Thats it, launch the game, `Honour Mode` campaign will be available and you can load your previous (before game over) save state
+A: First of all press `Alt+F4` or kill `bg3.exe` process ... i.e. close the game. Then [download the latest release && unpack && run `HonorRevival.exe`](https://github.com/madzohan/Bg3HonorRevival/releases/latest) . Thats it, launch the game, `Honour Mode` campaign will be available and you can load your previous (before game over) save state
 
 ### Read Next only if you want to build from sources by yourself:
 
