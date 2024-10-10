@@ -99,6 +99,10 @@ public class LSXWriter(Stream stream)
 
     private void WriteNode(Node node)
     {
+        if (node.Name == "DisabledSingleSaveSessions" && node.Parent.Name == "DisabledSingleSaveSessions")
+        {
+            return;
+        }
         writer.WriteStartElement("node");
         writer.WriteAttributeString("id", node.Name);
 
