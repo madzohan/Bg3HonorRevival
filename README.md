@@ -12,7 +12,9 @@ Q: So what I have to do when getting this screen?
 
 A: First of all press `Alt+F4` or kill `bg3.exe` process ... i.e. close the game. Then run `HonorRevival.exe`. Thats it, launch the game, `Honour Mode` campaign will be available and you can load your previous (before game over) save state
 
-### Requirements
+### Read Next only if you want to build from sources by yourself:
+
+#### Build Requirements
 
 To build the tools you'll need to get the following dependencies:
 
@@ -20,7 +22,7 @@ To build the tools you'll need to get the following dependencies:
  - Download GPPG 1.5.2 [from here](https://s3.eu-central-1.amazonaws.com/nb-stor/dos/ExportTool/gppg-distro-1_5_2.zip) and extract it to the `External\gppg\` directory
  - Protocol Buffers 3.6.1 compiler [from here](https://github.com/protocolbuffers/protobuf/releases/download/v3.6.1/protoc-3.6.1-win32.zip) and extract it to the `External\protoc\` directory
 
-### How to build
+#### How to build
 1) build `LSLibNative`
 2) build `LSLib`
 3) build `HonorRevival`
