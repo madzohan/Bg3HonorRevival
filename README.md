@@ -1,4 +1,4 @@
-# HonorRevival
+# HonorRevival (Baldur's Gate 3)
 
 This console application automatize changing of `profile 8.lsf` to make your failed `Honour Mode` campaign shine again!
 
